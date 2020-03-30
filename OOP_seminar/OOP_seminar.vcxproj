@@ -141,7 +141,6 @@
     <ClCompile Include="seminar2.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="aufgabe6.h" />
     <ClInclude Include="seminar2.h" />
   </ItemGroup>
   <ItemGroup>

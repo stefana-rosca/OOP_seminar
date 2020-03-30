@@ -23,9 +23,6 @@
     <ClInclude Include="seminar2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="aufgabe6.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="date-out.txt">
